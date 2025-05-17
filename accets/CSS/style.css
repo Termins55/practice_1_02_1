@@ -48,7 +48,7 @@ h1 {
 }
 
 .div-footer {
-    height: 150px;
+    height: 100px;
     width: 100%;
     font-size: 0px;
 }
@@ -61,7 +61,7 @@ h1 {
     width: 33.33%;
     vertical-align: top;
     font-size: 17px;
-    padding-top: 35px;
+    padding-top: 25px;
     padding-left: 10px;
     text-align: left;
 }
@@ -72,7 +72,7 @@ h1 {
     width: 33.33%;
     vertical-align: top;
     font-size: 17px;
-    padding-top: 35px;
+    padding-top: 25px;
     padding-left: 10px;
     text-align: left;
 }
@@ -85,7 +85,7 @@ h1 {
     width: 33.33%;
     vertical-align: top;
     font-size: 17px;
-    padding-top: 35px;
+    padding-top: 25px;
     padding-left: 10px;
     text-align: left;
 }
